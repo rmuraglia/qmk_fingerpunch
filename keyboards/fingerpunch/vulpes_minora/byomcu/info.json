@@ -7,5 +7,12 @@
         "vid": "0xFEFE",
         "pid": "0x1110",
         "device_version": "1.0.0"
+    },
+    "ps2": {
+        "clock_pin": "GP14",
+        "data_pin": "GP13",
+        "driver": "vendor",
+        "enabled": true,
+        "mouse_enabled": true
     }
 }
